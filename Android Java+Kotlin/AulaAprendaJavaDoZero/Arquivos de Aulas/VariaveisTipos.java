@@ -1,9 +1,9 @@
-class Scratch {
+class VariaveisTipos {
     public static void main(String[] args) {
         /* Tipos primitivos
-        * Os tipos primitivos são os tipos mais básicos da linguagem.
-        * Geralmente não carregam métodos como uma classe ou objeto.
-        * */
+         * Os tipos primitivos são os tipos mais básicos da linguagem.
+         * Geralmente não carregam métodos como uma classe ou objeto.
+         * */
         System.out.println("Tipos primitivos");
 
         byte idade = 30;
@@ -27,12 +27,12 @@ class Scratch {
         System.out.println(" ");
 
         /* Classes wrapper
-        * São tipos que básicamente funcionam da mesma forma que os tipos primitivos,
-        * mas carregam em si métodos que fazem operações com os valores recebidos ou
-        * conversões de valores.
-        *
-        * Tipos como as Classes wrapper começam com letra Maiúscula.
-        * */
+         * São tipos que básicamente funcionam da mesma forma que os tipos primitivos,
+         * mas carregam em si métodos que fazem operações com os valores recebidos ou
+         * conversões de valores.
+         *
+         * Tipos como as Classes wrapper começam com letra Maiúscula.
+         * */
         System.out.println("Classes wrapper");
 
         Byte idadeC = 52;

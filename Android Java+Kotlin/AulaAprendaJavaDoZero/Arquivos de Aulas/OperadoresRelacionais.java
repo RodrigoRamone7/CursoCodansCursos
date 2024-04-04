@@ -1,4 +1,4 @@
-class Scratch {
+class OperadoresRelacionais {
     public static void main(String[] args) {
         short idade = 18;
         boolean retorno = idade >= 18;

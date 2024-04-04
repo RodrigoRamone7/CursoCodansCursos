@@ -1,4 +1,4 @@
-class Scratch {
+class VariaveisEConstantes {
     public static void main(String[] args) {
 
         String nome = "Rodrigo";
@@ -10,7 +10,6 @@ class Scratch {
 
         System.out.println("Usuário: " + nome);
         System.out.println("Idade: " + idade);
-
 
 
     }

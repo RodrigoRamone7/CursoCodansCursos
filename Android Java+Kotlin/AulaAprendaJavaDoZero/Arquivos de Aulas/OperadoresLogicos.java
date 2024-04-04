@@ -1,4 +1,4 @@
-class Scratch {
+class OperadoresLogicos {
     public static void main(String[] args) {
         byte idade = 30;
         double compras = 300;
